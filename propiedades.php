@@ -23,7 +23,7 @@
         <div class="row tm-row-margin-b tm-content-boxes-row">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
                 <div class="tm-content-box">
-                    <img src="img/property-1.jpg" alt="Casa 1" class="img-fluid">
+                    <img src="img\casa1.jpeg" alt="Casa 1" class="img-fluid">
                     <h3 class="tm-content-title">Casa en la playa</h3>
                     <p>Hermosa casa frente al mar con 3 habitaciones y 2 baños. Precio: $500,000</p>
                 </div>
@@ -31,7 +31,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
                 <div class="tm-content-box">
-                    <img src="img/property-2.jpg" alt="Casa 2" class="img-fluid">
+                    <img src="img\casa2.jpeg" alt="Casa 2" class="img-fluid">
                     <h3 class="tm-content-title">Casa en el centro</h3>
                     <p>Moderna casa en el centro de la ciudad con 2 habitaciones y 1 baño. Precio: $350,000</p>
                 </div>
@@ -39,7 +39,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
                 <div class="tm-content-box">
-                    <img src="img/property-3.jpg" alt="Casa 3" class="img-fluid">
+                    <img src="img\casa3.jpeg" alt="Casa 3" class="img-fluid">
                     <h3 class="tm-content-title">Casa suburbana</h3>
                     <p>Amplia casa en zona tranquila con 4 habitaciones y 3 baños. Precio: $450,000</p>
                 </div>
