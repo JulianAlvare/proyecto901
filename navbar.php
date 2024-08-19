@@ -33,8 +33,8 @@
                         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 nav-item">
                             <a class="nav-link" href="irving.php">Irving Robles</a>
                         </div>
-                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 nav-item tm-dummy-nav-item">
-                            <div class="nav-link">&nbsp;</div>
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 nav-item">
+                            <a class="nav-link" href="Alexis.php">Alexis Torres</a>
                         </div>
                     </div> 
                 </div>    
